@@ -1,0 +1,201 @@
+import mathematical
+import exchangeInfo
+import time
+
+CODESTART:
+[
+     INTEGER ZZaa,WWbb,YYcc,XXdd;
+     ZZaa=10;
+     WWbb=20;
+     YYcc=30;
+     XXdd=ZZaa PLUS WWbb PLUS YYcc;
+
+
+
+	# Variable declaration
+    IF(5>2)
+	[
+	  20 PLUS 20;
+	]
+	ELSEIF(10<3)
+	[
+	  IF(10>2)
+	  [
+        1 MUL 10;
+	  ]
+	  ELSE
+	  [
+	  40 PLUS 6;
+	  ]
+	]
+	ELSE
+	[
+	10 MUL 10;
+	]
+
+
+	##
+	IF(5>2)
+	[
+	  IF(10<20)
+	  [
+	  20 PLUS 20;
+	  ]
+	  ELSE
+	  [
+	  30 MINUS 20;
+	  ]
+	]
+	ELSE
+	[
+	  30 MINUS 20;
+	]
+	##
+	
+
+
+	CHAR p,q,r;
+	INTEGER a,b,c;
+
+	IF(5>2)
+	[
+		15 MINUS 30;
+	]
+	ELSE
+	[
+		20 PLUS 9;
+	]
+
+
+	IF(5>2)
+	[
+	  20 PLUS 20;
+	]
+	ELSE
+	[
+	  30 MINUS 20;
+	]
+
+	#Switch Case
+	
+	SWITCH (2)
+	[
+	CASE 1: 10 PLUS 20;
+
+	CASE 2: 33 MINUS 19;
+
+	DEFAULT : 22 MINUS 15;
+	
+	]
+
+	# variable assignment
+
+	a=60;
+	b=30;
+	c=0;
+
+
+	IF(a>b)[
+
+	10 PLUS 20 PLUS 30;
+	
+	]
+	
+	c=a PLUS b;
+	SHOW(c);
+	
+	c=a MINUS b;
+	SHOW(c);
+
+	c=a MUL b;
+	SHOW(c);
+
+	c=a DIV b;
+	SHOW(c);
+	
+
+	# Series Mathematical expression
+
+	a PLUS a PLUS b PLUS b;
+
+	
+	# IF ELSE Block
+	IF(a>b)
+	[
+		a MINUS b;
+	]
+	
+	ELSE
+	[
+		b MINUS a;
+	]
+	SHOW(a PLUS b);
+
+	# variable declaration
+
+	FLOAT x,y,z;
+
+	# factorial calculation
+	FACTORIAL(5);
+
+	# Odd Even calculation
+ 	ODDEVEN(10);
+
+
+
+ 	#  While Loop Block with IF ELSE
+	WHILE (1<7)
+	[
+
+		IF(5>2)
+		[
+	  		20 PLUS 20;
+		]
+		ELSE
+		[
+	  		30 MINUS 20;
+		]
+
+
+	]
+
+	
+
+
+	#  Mathematical Expression
+	
+	2^4;
+	
+	SIN(30);
+
+	# Print Fnction
+	SHOW(10 PLUS 15);
+
+	# Loop block
+	LOOP (3,18,3)
+	[
+	    IF(10>2)[
+	    10 MINUS 3;
+
+	    ]
+	    ELSE
+	    [
+	    10 PLUS 10;	  
+	    ]
+	]
+
+	ARRAY INTEGER N (10);
+	ARRAY CHAR C (5);
+
+	## MULTILINE COMMENT TESTED HERE
+	AND THE TEST IS A SUCCESS!!
+	WELL DONE NUHASH
+	##
+
+	WHILE(1<4)
+	[
+		SHOW(4);
+	]
+
+
+]

@@ -1,0 +1,488 @@
+
+Header file found :
+import mathematical
+
+Header file found :
+import exchangeInfo
+
+Header file found :
+import time
+
+CODESTART function started
+interger declaration
+ZZaa
+WWbb
+YYcc
+XXdd
+
+variable Dection
+
+
+
+
+ZZaa
+
+Value of the variable: 10
+
+
+
+
+WWbb
+
+Value of the variable: 20
+
+
+
+
+YYcc
+
+Value of the variable: 30
+
+
+
+
+XXdd
+ZZaa
+WWbb
+
+Addition :10+20 = 30 
+YYcc
+
+Addition :30+30 = 60 
+
+Value of the variable: 60
+
+
+
+
+
+Single line comment found :: # Variable declaration
+
+Greater than :5 > 2 
+ 
+Addition :20+20 = 40 
+value of expression: 40
+
+
+
+
+
+Less Than :10 < 3 
+
+Greater than :10 > 2 
+ 
+Multiplication :1*10 
+ value of expression: 10
+
+
+
+
+
+Addition :40+6 = 46 
+value of expression: 46
+
+
+
+
+value of expression in IF: 10
+
+
+
+
+
+Multiplication :10*10 
+ value of expression: 100
+
+
+
+
+value of expression in IF: 40
+
+
+
+
+
+Multi line comment found :: ##
+	IF(5>2)
+	[
+	  IF(10<20)
+	  [
+	  20 PLUS 20;
+	  ]
+	  ELSE
+	  [
+	  30 MINUS 20;
+	  ]
+	]
+	ELSE
+	[
+	  30 MINUS 20;
+	]
+	##
+char declaration
+p
+q
+r
+
+variable Dection
+
+
+
+
+interger declaration
+a
+b
+c
+
+variable Dection
+
+
+
+
+
+Greater than :5 > 2 
+ 
+Subtraction :15-30=-15 
+ value of expression: -15
+
+
+
+
+
+Addition :20+9 = 29 
+value of expression: 29
+
+
+
+
+value of expression in IF: -15
+
+
+
+
+
+Greater than :5 > 2 
+ 
+Addition :20+20 = 40 
+value of expression: 40
+
+
+
+
+
+Subtraction :30-20=10 
+ value of expression: 10
+
+
+
+
+value of expression in IF: 40
+
+
+
+
+
+Single line comment found :: #Switch Case
+
+Addition :10+20 = 30 
+Case No : 1 & expression value :30 
+
+Subtraction :33-19=14 
+ Case No : 2 & expression value :14 
+
+Subtraction :22-15=7 
+ 
+Default case & expression value : 7
+SWITCH CASE Declaration
+
+
+
+
+
+Single line comment found :: # variable assignment
+a
+
+Value of the variable: 60
+
+
+
+
+b
+
+Value of the variable: 30
+
+
+
+
+c
+
+Value of the variable: 0
+
+
+
+
+a
+b
+
+Greater than :60 > 30 
+ 
+Addition :10+20 = 30 
+
+Addition :30+30 = 60 
+value of expression: 60
+
+
+
+
+c
+
+value of expression in IF: 60
+
+
+
+
+a
+b
+
+Addition :60+30 = 90 
+
+Value of the variable: 90
+
+
+
+
+c
+
+Print Expression 90
+
+
+
+
+c
+a
+b
+
+Subtraction :60-30=30 
+ 
+Value of the variable: 30
+
+
+
+
+c
+
+Print Expression 30
+
+
+
+
+c
+a
+b
+
+Multiplication :60*30 
+ 
+Value of the variable: 1800
+
+
+
+
+c
+
+Print Expression 1800
+
+
+
+
+c
+a
+b
+
+Division :60/30 
+ 
+Value of the variable: 2
+
+
+
+
+c
+
+Print Expression 2
+
+
+
+
+
+Single line comment found :: # Series Mathematical expression
+a
+a
+
+Addition :60+60 = 120 
+b
+
+Addition :120+30 = 150 
+b
+
+Addition :150+30 = 180 
+value of expression: 180
+
+
+
+
+
+Single line comment found :: # IF ELSE Block
+a
+b
+
+Greater than :60 > 30 
+ a
+b
+
+Subtraction :60-30=30 
+ value of expression: 30
+
+
+
+
+b
+a
+
+Subtraction :30-60=-30 
+ value of expression: -30
+
+
+
+
+value of expression in IF: 30
+
+
+
+
+a
+b
+
+Addition :60+30 = 90 
+
+Print Expression 90
+
+
+
+
+
+Single line comment found :: # variable declaration
+float declaration
+x
+y
+z
+
+variable Dection
+
+
+
+
+
+Single line comment found :: # factorial calculation
+
+FACTORIAL declaration
+FACTORIAL of 5 is : 120
+
+
+
+
+
+Single line comment found :: # Odd Even calculation
+Odd Even Number detection 
+Number : 10 is -> Even
+
+
+
+
+
+Single line comment found :: #  While Loop Block with IF ELSE
+
+Greater than :5 > 2 
+ 
+Addition :20+20 = 40 
+value of expression: 40
+
+
+
+
+
+Subtraction :30-20=10 
+ value of expression: 10
+
+
+
+
+value of expression in IF: 40
+
+
+
+
+WHILE Loop execution
+iteration loop: 1  :  
+
+iteration loop: 2  :  
+
+iteration loop: 3  :  
+
+iteration loop: 4  :  
+
+iteration loop: 5  :  
+
+iteration loop: 6  :  
+
+
+
+
+
+Single line comment found :: #  Mathematical Expression
+
+Power  :2 ^ 4 
+value of expression: 16
+
+
+
+
+
+Value of Sin(30) is : 0.500001
+value of expression: 0
+
+
+
+
+
+Single line comment found :: # Print Fnction
+
+Addition :10+15 = 25 
+
+Print Expression 25
+
+
+
+
+
+Single line comment found :: # Loop block
+
+Greater than :10 > 2 
+ 
+Subtraction :10-3=7 
+ value of expression: 7
+
+
+
+
+
+Addition :10+10 = 20 
+value of expression: 20
+
+
+
+
+value of expression in IF: 7
+
+
+
+
+syntax error
